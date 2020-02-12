@@ -18,6 +18,8 @@ namespace LibraryManagment.Forms
 
     public class User
     {
+
+        // Adminin malumatlari
         public int Id { get; set; }
 
         [Required]

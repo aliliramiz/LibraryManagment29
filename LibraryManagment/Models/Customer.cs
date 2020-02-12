@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace LibraryManagment.Models
 {
+    //Kiraya gotranin malumatlari
     public class Customer
     {
         public int Id { get; set; }

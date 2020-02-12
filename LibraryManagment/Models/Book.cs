@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace LibraryManagment.Models
 {
+    // Kitablarin filterlari 
     public class Book
     {
         public int Id { get; set; }

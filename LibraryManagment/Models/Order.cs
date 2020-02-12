@@ -7,6 +7,7 @@ using System.ComponentModel.Design;
 
 namespace LibraryManagment.Models
 {
+    //Sifarishin malumatlari
     public class Order
     {
         public int Id { get; set; }
