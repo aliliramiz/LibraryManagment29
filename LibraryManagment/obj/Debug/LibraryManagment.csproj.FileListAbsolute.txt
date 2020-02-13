@@ -37,7 +37,6 @@ C:\Users\10\Desktop\LibraryManagment\LibraryManagment\bin\Debug\EntityFramework.
 C:\Users\10\Desktop\LibraryManagment\LibraryManagment\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
 C:\Users\10\Desktop\LibraryManagment\LibraryManagment\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
 C:\Users\10\Desktop\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.csprojAssemblyReference.cache
-C:\Users\10\Desktop\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.Forms.Dashboard.resources
 C:\Users\10\Desktop\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.Forms.DashboardForm.resources
 C:\Users\10\Desktop\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.Forms.LoginForm.resources
 C:\Users\10\Desktop\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.Migrations.initial.resources
@@ -48,3 +47,4 @@ C:\Users\10\Desktop\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment
 C:\Users\10\Desktop\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.csproj.CopyComplete
 C:\Users\10\Desktop\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.exe
 C:\Users\10\Desktop\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.pdb
+C:\Users\10\Desktop\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.Forms.UserForm.resources

@@ -32,9 +32,9 @@ namespace LibraryManagment.Models
         [MaxLength(50)]
         public string CreatedBy { get; set; }
 
-       // public int UserId { get; set; }
+        public int UserId { get; set; }
 
-      //  public List<Comment> Comments { get; set; }
+        public List<Comment> Comments { get; set; }
 
         public User User { get; set; }
     }
