@@ -24,7 +24,7 @@ namespace LibraryManagment.Forms
 
         private void BtnCustomer_Click(object sender, EventArgs e)
         {
-            UserForm userForm = new UserForm();
+            CustomerForm userForm = new CustomerForm();
             userForm.ShowDialog();
 
 
